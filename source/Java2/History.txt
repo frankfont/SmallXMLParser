@@ -1,0 +1,11 @@
+Some Highlights About This Project
+----------------------------------
+Summer 2001
+-Initial Release
+
+January 9, 2002 (Version 1.01)
+- Implemented Comparable interfaces.
+- Implemented findAttribute() method in TagNode.
+- Implemented overloaded getChildren(filter) in Node class.
+- Created NodeFilter interface.
+

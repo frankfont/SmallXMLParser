@@ -1,0 +1,9 @@
+THE FOLDERS
+===========
+The Java1 folder contains a version of SmallXMLParser that works with JDK1.1
+The Java2 folder contains a version of SmallXMLParser that works with new versions of Java (Java2 on up)
+
+ONLY NEED ONE
+=============
+If you are not sure which one to use, definitely use the one from Java2 folder.  
+The Java1 version is for those rare (maybe non-existent) people that are cursed to be using a super old (pre 2000) version of Java. 

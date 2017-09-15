@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!--This XML file contains movie info for one day-->
+<movies>
+<movie title="Shreck" rating="PG">
+<showtime start="11:00"/>
+<showtime start="14:00"/>
+<showtime start="16:00"/>
+<showtime start="18:00"/>
+</movie>
+<movie title="A.I.:Artificial Intelligence" rating="PG-13">
+<showtime start="13:00"/>
+<showtime start="14:30"/>
+<showtime start="16:30"/>
+<showtime start="18:00"/>
+<showtime start="20:00"/>
+</movie>
+<movie title="Swordfish" rating="R">
+<showtime start="15:30"/>
+<showtime start="16:45"/>
+<showtime start="18:30"/>
+<showtime start="21:00"/>
+</movie>
+<movie title="Moulin Rouge" rating="PG-13">
+<showtime start="18:30"/>
+<showtime start="21:00"/>
+</movie>
+<movie title="Baby Boy" rating="R">
+<showtime start="15:30"/>
+<showtime start="16:45"/>
+<showtime start="18:30"/>
+</movie>
+<movie title="Its a Mad Mad Mad Mad World" rating="G">
+<showtime start="11:30"/>
+<showtime start="13:45"/>
+<showtime start="15:30"/>
+</movie>
+</movies>

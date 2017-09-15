@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<!-- This XML file contains customer data -->
+<!-- Some nodes contain oddball attributes -->
+<customers lastupdated="20011204">
+<!-- An HTML message is included as the first item after the root.-->
+<![CDATA[
+<b>
+If no salesrep is identified, no one gets the commission.
+</b>
+]]>
+<customer id="C0123" firstname="Jack" lastname="Fotogio" state="MD">
+<purchase id="P998" product="camera body" salesrep="jim" price="250.00" date="20010105"/>
+<purchase id="P498" product="lens" price="125.00" date="20010105"/>
+<purchase id="P958" product="film" price="11.99" date="20010105"/>
+<purchase id="P928" product="battery" toxic="YES" price="1.99" date="20010105"/>
+</customer>
+<customer id="C0113" firstname="Veronica" lastname="Grafatica" state="MD">
+<purchase id="P116" product="photoshop" price="290.00" date="20010506"/>
+<purchase id="P055" product="mouse" price="29.99" date="20001210"/>
+</customer>
+<customer id="C0100" firstname="Alfonso" lastname="Consumero" state="MD">
+<purchase id="P088" product="forks" price="25.00" date="20011006"/>
+<purchase id="P033" product="spoons" price="19.99" date="19991210"/>
+<purchase id="P022" product="knives" price="19.99" date="19991210"/>
+<purchase id="P011" product="magazine" price="3.99" date="19991210"/>
+</customer>
+<customer id="C0270" firstname="Wendy" lastname="Yannanina" state="VA">
+<purchase id="P011" product="magazine" price="3.99" date="20001201"/>
+<purchase id="P011" product="magazine" price="3.99" date="20000110"/>
+<purchase id="P011" product="magazine" price="3.99" date="19990415"/>
+<purchase id="P011" product="magazine" price="3.99" date="20000310"/>
+<purchase id="P088" product="forks" price="25.00" date="20011006"/>
+<purchase id="P033" product="spoons" price="19.99" date="19991210"/>
+<purchase id="P011" product="magazine" price="3.99" date="20000410"/>
+<purchase id="P011" product="magazine" price="3.99" date="20000510"/>
+<purchase id="P010" product="magazine" price="5.99" date="20000110"/>
+</customer>
+<customer id="C0400" firstname="Bunches" lastname="Smith" state="MD">
+<purchase id="P188" product="computer" salesrep="jane" price="1225.00" date="20001006"/>
+<purchase id="P133" product="monitor" price="119.99" date="20001006"/>
+<purchase id="P122" product="scanner" price="219.99" date="20001006"/>
+<purchase id="P011" product="magazine" price="3.99" date="19991211"/>
+<purchase id="P011" product="magazine" price="3.99" date="20000110"/>
+<purchase id="P011" product="magazine" price="3.99" date="20000210"/>
+<purchase id="P011" product="magazine" price="3.99" date="20000310"/>
+<purchase id="P011" product="magazine" price="3.99" date="20000410"/>
+<purchase id="P011" product="magazine" price="3.99" date="20000510"/>
+</customer>
+<customer id="C0440" firstname="Anna" lastname="List" state="NY">
+<purchase id="P011" product="magazine" price="3.99" date="20001211"/>
+<purchase id="P011" product="magazine" price="3.99" date="20000110"/>
+<purchase id="P011" product="magazine" price="3.99" date="20000210"/>
+<purchase id="P011" product="magazine" price="3.99" date="20000310"/>
+<purchase id="P011" product="magazine" price="3.99" date="20000410"/>
+<purchase id="P011" product="magazine" price="3.99" date="20000510"/>
+<purchase id="P010" product="magazine" price="5.99" date="20000110"/>
+</customer>
+<customer id="C0560" firstname="Zack" lastname="Panda" state="NY">
+<purchase id="P011" product="magazine" price="3.99" date="20001211"/>
+<purchase id="P011" product="magazine" price="3.99" date="20000110"/>
+<purchase id="P011" product="magazine" price="3.99" date="19990210"/>
+<purchase id="P011" product="magazine" price="3.99" date="20000310"/>
+<purchase id="P011" product="magazine" price="3.99" date="20000410"/>
+<purchase id="P011" product="magazine" price="3.99" date="20000510"/>
+<purchase id="P010" product="magazine" price="5.99" date="20000110"/>
+</customer>
+<customer id="C0423" firstname="Charlie" lastname="Ostaganda" state="VA">
+<purchase id="P011" product="magazine" price="3.99" date="20001201"/>
+<purchase id="P011" product="magazine" price="3.99" date="20000110"/>
+<purchase id="P011" product="magazine" price="3.99" date="19990415"/>
+<purchase id="P011" product="magazine" price="3.99" date="20000310"/>
+<purchase id="P011" product="magazine" price="3.99" date="20000410"/>
+<purchase id="P011" product="magazine" price="3.99" date="20000510"/>
+<purchase id="P010" product="magazine" price="5.99" date="20000110"/>
+</customer>
+<customer id="C0226" firstname="Alice" lastname="Wunderlind" state="DC">
+<purchase id="P998" product="camera body" price="250.00" date="20010105"/>
+<purchase id="P498" product="lens" salesrep="jim" price="125.00" date="20010105"/>
+<purchase id="P011" product="magazine" price="3.99" date="19990415"/>
+<purchase id="P011" product="magazine" price="3.99" date="20000310"/>
+<purchase id="P011" product="magazine" price="3.99" date="20000410"/>
+<purchase id="P958" product="film" price="11.99" date="20010105"/>
+<purchase id="P928" product="battery" toxic="YES" price="1.99" date="20010105"/>
+</customer>
+<customer id="C0583" firstname="Jano" lastname="Dano" state="MD">
+<purchase id="P188" product="computer" salesrep="jane" price="1225.00" date="20001003">
+</purchase>
+</customer>
+<customer id="C0243" firstname="Strawberry" lastname="Fields" state="MD">
+<purchase id="P188" product="computer" salesrep="jane" price="1225.00" date="20001003"/>
+<purchase id="P133" product="monitor" price="119.99" date="20001003"/>
+<purchase id="P116" product="photoshop" price="290.00" date="20010503"/>
+<purchase id="P055" product="mouse" price="29.99" date="20010503"/>
+</customer>
+</customers>
